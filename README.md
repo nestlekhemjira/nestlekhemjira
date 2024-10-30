@@ -1,10 +1,13 @@
-<h1 align="center">I share what I learn</h1>
-<h3 align="center">💻</h3>
+<h3 align="center">Computer Science, Sophomore 💻</h3>
+
+- 🌱 I’m currently learning **Artificial Intelligence**
+
+- ⚡ Fun fuct **ppl think Im serious person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khemjira prachumkhong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khemjira prachumkhong" height="30" width="40" /></a>
-<a href="https://fb.com/khemjira prachumkhong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemjira prachumkhong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khemjira-prachumkhong-b785aa313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khemjira-prachumkhong-b785aa313" height="30" width="40" /></a>
+<a href="https://fb.com/khemjira.prachumkhong.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemjira.prachumkhong.9" height="30" width="40" /></a>
 <a href="https://instagram.com/nestlayle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nestlayle" height="30" width="40" /></a>
 </p>
 
