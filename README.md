@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm khemjira</h1>
-<h3 align="center">Im a Computer Science student at the University of Phayao 💻</h3>
+<h1 align="center">I share what I learn</h1>
+<h3 align="center">💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
